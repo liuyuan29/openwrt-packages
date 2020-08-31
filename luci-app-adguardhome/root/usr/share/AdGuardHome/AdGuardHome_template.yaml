@@ -3,7 +3,7 @@
 bind_host: 0.0.0.0
 bind_port: 3333
 users:[]
-language: ""
+language: "zh-cn"
 rlimit_nofile: 0
 dns:
   bind_host: 0.0.0.0
